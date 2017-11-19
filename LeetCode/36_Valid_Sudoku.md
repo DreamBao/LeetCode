@@ -2,7 +2,6 @@
 Valid Sudoku
 
 ## Code
-
     public class Solution {
         public bool IsValidSudoku(char[,] board) {
             if(board.Length == 0)
