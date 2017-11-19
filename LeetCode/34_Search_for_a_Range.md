@@ -1,4 +1,4 @@
-#34. Search for a Range
+# 34. Search for a Range
 Search for a Range
 
 ## Code
