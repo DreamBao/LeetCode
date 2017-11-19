@@ -2,12 +2,11 @@
 Valid Sudoku
 
 ## Code
-~
+···
 public class Solution {
     public bool IsValidSudoku(char[,] board) {
         if(board.Length == 0)
             return false;
-        
         char[] array = new char[9];
         for(int i = 0; i < 9; i++) {
             for(int k = 0; k < 9; k ++)
@@ -61,4 +60,4 @@ public class Solution {
         return true;
     }
 }
-~
+···
