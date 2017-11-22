@@ -1,5 +1,5 @@
-# 39. Combination Sum I
-Combination Sum I
+# 39. Combination Sum 
+Combination Sum
 
 ## Code
     public class Solution {
