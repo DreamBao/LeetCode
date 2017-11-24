@@ -3,6 +3,7 @@ Group Anagrams
 
 ## Code
 I:
+
     public class Solution {
         public IList<IList<string>> GroupAnagrams(string[] strs) {
             Dictionary<string, List<string>> dic = new Dictionary<string, List<string>>();
@@ -25,6 +26,7 @@ I:
     }
 
 II(Stupid):
+
     public class Solution {
         public IList<IList<string>> GroupAnagrams(string[] strs) {
             IList<IList<string>> result = new List<IList<string>>();
